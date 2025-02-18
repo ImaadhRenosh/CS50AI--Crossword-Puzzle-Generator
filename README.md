@@ -1,2 +1,19 @@
 # cs50-ai-crossword
+
+Crossword Puzzle Generator:
+
 This project, part of Harvard's CS50 Introduction to Artificial Intelligence with Python, involves creating an AI that generates complete crossword puzzles. The AI utilizes constraint satisfaction problems (CSP) techniques to fill in a given crossword grid with valid words from a predefined vocabulary.
+
+
+Technologies Used
+- Programming Language: Python
+- Libraries: itertools, copy
+- Tools: Git, VS Code
+
+Installation & How to Run
+To set up and run the project locally:
+
+1. Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/crossword-generator.git
+   cd crossword-generator
