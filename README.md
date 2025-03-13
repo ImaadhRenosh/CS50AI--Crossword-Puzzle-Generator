@@ -1,4 +1,4 @@
-# cs50-ai-crossword
+# CS50AI--Crossword Puzzle Generator
 
 ## Table of Contents
 - [Overview](#overview)
