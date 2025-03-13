@@ -43,16 +43,16 @@ To set up and run the project locally:
 
 ## Screenshots / Demo
 - **Screenshot 1**:
-  
-  ![Screenshot 1](link-to-screenshot1)
 
-- **Screenshot 2**:
-  
-  ![Screenshot 2](link-to-screenshot2)
+<img width="708" alt="Screenshot 2025-03-13 at 08 20 51" src="https://github.com/user-attachments/assets/a81b158b-5c73-4902-9c99-7c08f2b726ce" />
 
-- **Screenshot 3**:
+- enter crossword puzzle preferences
   
-  ![Screenshot 3](link-to-screenshot3)
+
+<img width="709" alt="Screenshot 2025-03-13 at 08 23 45" src="https://github.com/user-attachments/assets/12e8bcfb-80c8-4cc6-ac71-514165113a1f" />
+
+- Demo of an AI that generate crossword puzzles, upon the user entering their preferences of words.
+
 
 ## Usage
 After launching the application, you can:
