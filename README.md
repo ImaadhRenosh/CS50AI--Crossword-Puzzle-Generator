@@ -51,7 +51,7 @@ To set up and run the project locally:
 
 <img width="709" alt="Screenshot 2025-03-13 at 08 23 45" src="https://github.com/user-attachments/assets/12e8bcfb-80c8-4cc6-ac71-514165113a1f" />
 
-- Demo of an AI that generate crossword puzzles, upon the user entering their preferences of words.
+- Demo of an AI that generates crossword puzzles, upon the user entering their preferences of words.
 
 
 ## Usage
